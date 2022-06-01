@@ -287,7 +287,7 @@ img {
 }
 
 .home-title {
-  font-size: var(--big-font-size);
+  font-size: var(--h1-font-size);
 }
 
 .home-subtitle {
@@ -358,6 +358,13 @@ img {
   left: 37px;
 }
 
+.resume-button {
+  padding-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .tech-container {
   display: flex;
   flex-direction: column;
@@ -386,12 +393,6 @@ img {
   text-align: center;
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-2);
-}
-
-.about-button {
-  padding-top: 20px;
-  display: flex;
-  justify-content: center;
 }
 
 /*==================== SKILLS ====================*/
@@ -908,11 +909,6 @@ img {
     align-items: initial;
     justify-content: initial;
     display: flex;
-  }
-
-  .about-button {
-    justify-content: initial;
-    margin-left: 30px;
   }
 
   .qualification-tabs {
