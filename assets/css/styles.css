@@ -55,8 +55,8 @@
     --h2-font-size: 1.5rem;
     --h3-font-size: 1.25rem;
     --normal-font-size: 1rem;
-    --small-font-size: 0.875rem;
-    --smaller-font-size: 0.813rem;
+    --small-font-size: 0.975rem;
+    --smaller-font-size: 0.913rem;
   }
 }
 
@@ -622,7 +622,7 @@ img {
 }
 
 .project-img {
-  width: 265px;
+  width: 225px;
   border-radius: 0.5rem;
   justify-self: center;
 }
@@ -923,7 +923,7 @@ img {
   }
 
   .project-img {
-    width: 280px;
+    width: 240px;
   }
 
   .project-content {
