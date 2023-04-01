@@ -622,7 +622,7 @@ img {
 }
 
 .project-img {
-  width: 225px;
+  width: 200px;
   border-radius: 0.5rem;
   justify-self: center;
 }
@@ -770,7 +770,7 @@ img {
   }
 
   .project-img {
-    width: 190px;
+    width: 150px;
   }
 
   .qualification-data {
@@ -808,7 +808,7 @@ img {
   }
 
   .project-img {
-    width: 220px;
+    width: 200px;
   }
 
   .qualification-section {
@@ -923,7 +923,7 @@ img {
   }
 
   .project-img {
-    width: 240px;
+    width: 220px;
   }
 
   .project-content {
