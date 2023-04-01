@@ -704,7 +704,7 @@ img {
 }
 
 .footer-bg {
-  background-color: var(--first-color-second);
+  background-color: #000;
   padding: 2rem 0 3rem;
 }
 
