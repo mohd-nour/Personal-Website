@@ -1,6 +1,6 @@
 /*==================== GOOGLE FONTS ====================*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600&display=swap');
 /*==================== VARIABLES CSS ====================*/
 :root {
   --header-height: 3rem;
@@ -20,7 +20,7 @@
   --body-color: #0a192f;
   --container-color: #fff;
   /*========== Font and typography ==========*/
-  --body-font: 'Poppins', sans-serif;
+  --body-font: 'Syne', sans-serif;
   --big-font-size: 2rem;
   --h1-font-size: 1.5rem;
   --h2-font-size: 1.25rem;
@@ -163,12 +163,11 @@ img {
 .nav-logo,
 .nav-toggle {
   color: var(--title-color);
-  font-weight: var(--font-medium);
+  font-size: 1.5rem;
 }
 
 .nav-logo:hover {
   color: var(--first-color);
-  font-weight: var(--font-medium);
 }
 
 .nav-toggle {
